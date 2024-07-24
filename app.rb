@@ -12,4 +12,4 @@ queijo.preco = 7.0
 
 
 Loja.new(pao.nome, pao.preco).comprar
-Loja.new(queijo.nome, queijo.preco).comprar
+Loja.new(queijo.nome, queijo.preco).comprar #vantagem POO não é preciso reescrever no Loja outro puts
